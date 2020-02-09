@@ -1,6 +1,6 @@
 
-1.import webproxypro.zip file in any ide(eclipse,intellige) as maven project.
-
+1.extract webproxypro.zip file in any folder.
+2.import the extracted folder(webproxypro) in any ide(eclipse,intellige) as maven project.
 3. for  example run three server , 
 e.g.http://localhost:8081,  http://localhost:8082,  http://localhost:8083
 
